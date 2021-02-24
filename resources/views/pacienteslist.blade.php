@@ -1,5 +1,5 @@
 <div class="card mb-3">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-NqMfeMPF09UPjxcYcMO8xME7-2NrCGy_w&usqp=CAU" class="card-img-top" alt="...">
+  <img src="https://images-cdn.9gag.com/photo/a9ApvDm_700b.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">San Jose St. Bonaventure Hospital</h5>
     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -8,8 +8,8 @@
     <thead class="table-light">
         <tr>
             <th scope="col">Cedula</th>
-            <th scope="col">Primer nombre</th>
-            <th scope="col">Segundo nombre</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Apellido</th>
             <th scope="col">Edad</th>
             <th scope="col">Especialista</th>
             <th scope="col">Operaciones</th>
