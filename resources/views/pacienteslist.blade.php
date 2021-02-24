@@ -1,7 +1,6 @@
 <div class="card mb-3">
-  <img src="https://images-cdn.9gag.com/photo/a9ApvDm_700b.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">San Jose St. Bonaventure Hospital</h5>
+    <h5 class="card-title">Vacunate con el Doctor Jordi</h5>
     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 
     <table class="table">
