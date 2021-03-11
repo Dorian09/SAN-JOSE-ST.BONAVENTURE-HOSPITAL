@@ -8,7 +8,8 @@
 
         <div class="row content">
           <div class="col-lg-6">
-            <img src="https://lh3.googleusercontent.com/proxy/TSJd4Ggjdlpvv3geIpvT2rDsrvRMf5vA8HKyfgg682OwiyTjMc0EHX9eWaWg5WEqXSu4du3lyVPXZrCMhqSdDn0N" class="img-fluid" alt="">
+            <img src="{!! asset('estilo/img/ceo.jpg') !!}" class="img-fluid" alt="">
+            <b>Investigador y CEO de PFIZER</b>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
